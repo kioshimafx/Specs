@@ -1,6 +1,6 @@
 {
   "name": "boost",
-  "version": "1.60.0",
+  "version": "1.59.0",
   "summary": "Boost provides free peer-reviewed portable C++ source libraries.",
   "homepage": "http://www.boost.org",
   "license": {
